@@ -4,7 +4,7 @@ on:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
-  update-readme-with-youtube-videos:
+  update-readme-with-youtube:
     name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest
     steps:
