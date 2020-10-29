@@ -14,8 +14,6 @@
 
 <br>
 
----
-
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -28,11 +26,9 @@
 
 <!-- YOUTUBE:END -->
 
----
+## ⚡ GitHub Stats & Languages
 
-## ⚡ GitHub Stats
-
-[![Somethea Siek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sometheasiekswx)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+[![Somethea Siek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sometheasiekswx)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sometheasiekswx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
