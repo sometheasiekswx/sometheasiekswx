@@ -1,11 +1,9 @@
-# 👋 Somethea Siek
-
-## 🧠 Area Of Focus
+### 🧠 Area Of Focus
 
 - 💻 Software Engineering
 - 🤖 Machine Learning
 
-## 📰 Social Media:
+### 📰 Social Media:
 
 [<img align="left" alt="Somethea Siek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Somethea Siek | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -14,7 +12,7 @@
 
 <br>
 
-## 📹 YouTube Videos
+### 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
 
@@ -26,11 +24,10 @@
 
 <!-- YOUTUBE:END -->
 
-## ⚡ GitHub Stats & Languages
+### ⚡ GitHub Stats & Languages
 
-[![Somethea Siek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sometheasiekswx)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sometheasiekswx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sometheasiekswx&show_icons=true&include_all_commits=true&count_private=true" alt="Somethea Siek's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sometheasiekswx&layout=compact" />
 
 [linkedin]: https://www.linkedin.com/in/sometheasiek/
 [youtube]: https://www.youtube.com/channel/UC7axd1HuwGRrcFL5bKG9niQ
