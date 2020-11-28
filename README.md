@@ -15,11 +15,11 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [realshort.mp4 (Test Video)](https://www.youtube.com/watch?v=5zNLuKbGVYI)
 - [How I Aced The Typing Test (361 WPM)](https://www.youtube.com/watch?v=Qhi5_IWjCY0)
 - [Python Coding Challenge : Sort the odd](https://www.youtube.com/watch?v=k8rAVG1st_w)
 - [C# Loops](https://www.youtube.com/watch?v=WRJxTM4Hmn4)
 - [Unique Number Coding Challenge C#](https://www.youtube.com/watch?v=pRCCKXVV_-A)
+- [Arrays And Lists C#](https://www.youtube.com/watch?v=Q7gZHSiUJtM)
 <!-- YOUTUBE:END -->
 
 ## ⚡ GitHub Stats & Languages
