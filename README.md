@@ -15,11 +15,7 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How I Aced The Typing Test (361 WPM)](https://www.youtube.com/watch?v=Qhi5_IWjCY0)
-- [Python Coding Challenge : Sort the odd](https://www.youtube.com/watch?v=k8rAVG1st_w)
-- [C# Loops](https://www.youtube.com/watch?v=WRJxTM4Hmn4)
-- [Unique Number Coding Challenge C#](https://www.youtube.com/watch?v=pRCCKXVV_-A)
-- [Arrays And Lists C#](https://www.youtube.com/watch?v=Q7gZHSiUJtM)
+- [University](https://www.youtube.com/watch?v=1rU3m_zOvVg)
 <!-- YOUTUBE:END -->
 
 ## ⚡ GitHub Stats & Languages
