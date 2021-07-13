@@ -19,11 +19,6 @@
 - [University](https://www.youtube.com/watch?v=1rU3m_zOvVg)
 <!-- YOUTUBE:END -->
 
-## ⚡ GitHub Stats & Languages
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sometheasiekswx&show_icons=true&include_all_commits=true&count_private=true" alt="Somethea Siek's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sometheasiekswx&layout=compact" />
-
 [linkedin]: https://www.linkedin.com/in/sometheasiek/
 [youtube]: https://www.youtube.com/channel/UC7axd1HuwGRrcFL5bKG9niQ
 [instagram]: https://www.instagram.com/sometheasiekswx2/
