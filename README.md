@@ -15,7 +15,7 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How I Became a Software Engineer in my First Year of University (As an International)](https://www.youtube.com/watch?v=Ic5gBXGjkuw)
+- [How I Became a Software Engineer in my First Year of University &lpar;As an International&rpar;](https://www.youtube.com/watch?v=Ic5gBXGjkuw)
 - [University](https://www.youtube.com/watch?v=1rU3m_zOvVg)
 <!-- YOUTUBE:END -->
 
