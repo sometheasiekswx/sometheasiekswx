@@ -15,6 +15,7 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [dune is decent “right now”](https://www.youtube.com/watch?v=1BSoTbdo-bI)
 - [spider-man: no way home was good](https://www.youtube.com/watch?v=do3L_oZkKzk)
 - [this weird lychee drink is alright](https://www.youtube.com/watch?v=gj5IbP-TXzc)
 - [How I Became a Software Engineer in my First Year of University &lpar;As an International&rpar;](https://www.youtube.com/watch?v=Ic5gBXGjkuw)
