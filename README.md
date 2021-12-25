@@ -15,11 +15,11 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why I got a Math Tattoo](https://www.youtube.com/watch?v=kr7ZrE-GYdU)
 - [a lychee and a guava drink](https://www.youtube.com/watch?v=No_ZvxfGhJY)
 - [“friends fun” kimchi chips](https://www.youtube.com/watch?v=ySZ9ivR_RXQ)
 - [dune is decent “right now”](https://www.youtube.com/watch?v=1BSoTbdo-bI)
 - [spider-man: no way home was good](https://www.youtube.com/watch?v=do3L_oZkKzk)
-- [this weird lychee drink is alright](https://www.youtube.com/watch?v=gj5IbP-TXzc)
 <!-- YOUTUBE:END -->
 
 [linkedin]: https://www.linkedin.com/in/sometheasiek/
