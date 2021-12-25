@@ -15,7 +15,7 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [reviewing random lychee and guava drinks](https://www.youtube.com/watch?v=No_ZvxfGhJY)
+- [a lychee and a guava drink](https://www.youtube.com/watch?v=No_ZvxfGhJY)
 - [“friends fun” kimchi chips](https://www.youtube.com/watch?v=ySZ9ivR_RXQ)
 - [dune is decent “right now”](https://www.youtube.com/watch?v=1BSoTbdo-bI)
 - [spider-man: no way home was good](https://www.youtube.com/watch?v=do3L_oZkKzk)
