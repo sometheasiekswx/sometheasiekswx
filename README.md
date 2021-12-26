@@ -15,7 +15,7 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [aircorn chips has an interesting pattern](https://www.youtube.com/watch?v=mCcCyc0uy_I)
+- [aircorn chips with an interesting pattern](https://www.youtube.com/watch?v=mCcCyc0uy_I)
 - [Why I got a Math Tattoo](https://www.youtube.com/watch?v=kr7ZrE-GYdU)
 - [a lychee and a guava drink](https://www.youtube.com/watch?v=No_ZvxfGhJY)
 - [“friends fun” kimchi chips](https://www.youtube.com/watch?v=ySZ9ivR_RXQ)
