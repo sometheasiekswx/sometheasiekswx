@@ -15,11 +15,11 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [It Doesn&#39;t Snow in Australia](https://www.youtube.com/watch?v=k78dty04DmE)
 - [aircorn chips with an interesting pattern](https://www.youtube.com/watch?v=mCcCyc0uy_I)
 - [Why I got a Math Tattoo](https://www.youtube.com/watch?v=kr7ZrE-GYdU)
 - [a lychee and a guava drink](https://www.youtube.com/watch?v=No_ZvxfGhJY)
 - [“friends fun” kimchi chips](https://www.youtube.com/watch?v=ySZ9ivR_RXQ)
-- [dune is decent “right now”](https://www.youtube.com/watch?v=1BSoTbdo-bI)
 <!-- YOUTUBE:END -->
 
 [linkedin]: https://www.linkedin.com/in/sometheasiek/
