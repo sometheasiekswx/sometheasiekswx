@@ -15,8 +15,6 @@
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [a beer and a cucumber chips](https://www.youtube.com/watch?v=BoKnL-25f-o)
-- [turtle chips soy bean](https://www.youtube.com/watch?v=PQSLbI3BBO0)
 - [It Doesn&#39;t Snow in Australia](https://www.youtube.com/watch?v=k78dty04DmE)
 - [aircorn chips with an interesting pattern](https://www.youtube.com/watch?v=mCcCyc0uy_I)
 - [Why I got this Unique Math Tattoo](https://www.youtube.com/watch?v=kr7ZrE-GYdU)
