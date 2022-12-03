@@ -7,8 +7,6 @@
 
 https://linktr.ee/sometheasiek
 
-<br>
-
 ## 📹 YouTube Videos
 
 <!-- YOUTUBE:START -->
