@@ -5,7 +5,7 @@
 
 ## 📰 Social Media:
 
-https://linktr.ee/sometheasiek
+- https://linktr.ee/sometheasiek
 
 ## 📹 YouTube Videos
 
